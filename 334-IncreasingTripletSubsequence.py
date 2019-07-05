@@ -19,5 +19,7 @@ class Solution:
             if cursor == 2:
                 return True
   
-        return False    
+        return False
+
+# this is junchao editing trick
                 
